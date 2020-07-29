@@ -1,8 +1,6 @@
 
 # Gem5-Simulator
-We have implemented and done research on our project " Comparison of Cache Replacement policies using Gem5-Simulator".
-
-This git repository contains only main files which are used in the project, if you want to download the simulator you can follow the steps for download and install on - http://www.gem5.org/Download
+Project: Comparison of Cache Replacement policies using Gem5-Simulator
 
 If you want to know more about the project you can visit  - https://bhagyashreeborate.wordpress.com/acaproject/
 
@@ -13,4 +11,5 @@ If you want to know more about the project you can visit  - https://bhagyashreeb
 3. gem5 config files - These are the main configuration files used to run the simulator with required parameters.
 
 4. stats_parser.py - This is a PYTHON PARSER. Using this parser we have calculated the miss rates for multiple cases like, different associativity, block size, etc. rather than manually calculating and plotting it. 
+
 Every folder has its own readme file to explain in more details.
